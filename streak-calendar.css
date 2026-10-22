@@ -1,0 +1,1 @@
+.streak-calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}.day{aspect-ratio:1;border-radius:7px;background:var(--bg);display:grid;place-items:center;font-size:.75rem}.day.done{background:#86efac;color:#14532d}.day.today{outline:2px solid var(--primary)}

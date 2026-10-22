@@ -1,0 +1,4 @@
+-- Optional seed file.
+-- The application creates users, habits and rewards through the REST API.
+-- Keep spring.sql.init.mode=never in application.properties unless you
+-- intentionally add SQL seed data here.
